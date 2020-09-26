@@ -4,4 +4,4 @@ Hi, my name is Dmitry Konyshov. I am studying mathematics and systems programmin
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@DmitryKonyshov-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DmitryKonyshov)](https://twitter.com/DmitryKonyshov)
+[![Twitter Badge](https://img.shields.io/badge/-@DmitryKonyshov-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DmitryKonyshov)](https://twitter.com/DmitryKonyshov)[![Mail Badge](https://img.shields.io/badge/-@dmitrykonyshov-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/dmitrykonyshov/)
