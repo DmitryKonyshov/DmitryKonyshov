@@ -7,6 +7,8 @@ My projects:
   🕹 [Block Breaker](https://dmitrykonyshov.github.io/Block-Breaker/index.html)
   
   🚀 [Lazer Defender](https://dmitrykonyshov.github.io/Laser-Defender/index.html)
+  
+  ⚔️ [TileVania](https://dmitrykonyshov.github.io/TileVania/index.html)
 
 :mailbox: Reach me out!
 
